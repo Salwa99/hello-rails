@@ -1,24 +1,16 @@
-# README
+# Hello Rails exercise
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this exercise I create my first ror application, which displays **Hello Rails** in the main page
 
-Things you may want to cover:
+### Main objectives of this exercise:
 
-* Ruby version
+- Install `Ruby on Rails` framework.
+- Use `RubyGems` as a software package system.
 
-* System dependencies
+### To run this project:
 
-* Configuration
+- Make sure that you setup a `Postgres` database.
+- Run `rails server` and visit http://localhost:3000/ in your browser!
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_Happy coding ❤️_
